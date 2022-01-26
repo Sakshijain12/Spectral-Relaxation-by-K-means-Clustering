@@ -1,2 +1,4 @@
 # Spectral-Relaxation-by-K-means-Clustering
-It's a project in Introduction to Machine Learning Course.
+
+As a part of the Introduction to Machine Learning course.
+It applies the concept of unsupervised learning algorithm of K-means clustering by Spectral Relaxation. 
